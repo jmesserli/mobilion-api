@@ -1,0 +1,2 @@
+spring.application.name: mobilion-api
+mobilion.value: #{MOBILION_VALUE}
